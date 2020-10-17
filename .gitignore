@@ -1,0 +1,4 @@
+# things to ignore
+cli-video-poker
+build/*
+.vscode/
